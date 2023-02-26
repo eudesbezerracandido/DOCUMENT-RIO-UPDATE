@@ -15,3 +15,11 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Pamela Anderson conta sobre sua vida, ascensão à fama e sua vida pessoa, assim como seu casamento turbulento com Tommy Lee e a sua sex tape vazada.</info>
 </item> 
+
+<item>
+<title>[COLOR silver][B] ERA UMA VEZ CARNAVAL-DOCUMENTÁRIO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6OXPKCAB7UOIWAMOZHZB7XITHQFB2Q23</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/efviGPGyWf5H1Pupa18dYvBHHgI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A festa nunca termina? E sua vida, quando começa? Seja sua escolha pular carnaval ou pular o carnaval, te convidamos a assistir ao novo especial inédito da Brasil Paralelo, produzido com o objetivo de estudar e compreender as origens, caminhos e desvios dessa festa e tudo que ela representa — e deixou de representar.</info>
+</item>
