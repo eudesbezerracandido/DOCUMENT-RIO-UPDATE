@@ -1,5 +1,14 @@
 # DOCUMENT-RIO-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] A FANTASTICA FÁBRICA DA SANIDADE-DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BPEML4UWSHUPHYJAVZ55ODILPWZLPA4S</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7CC2p1QajubhB3lXjFHkuww2KkN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Há quem durma desejando nunca mais acordar. Há quem já acorde querendo voltar a dormir. Neste documentário da Brasil Paralelo, você acompanha a história e os relatos de quem lida, pessoal ou profissionalmente, com essa questão. Mente, corpo e alma serão perscrutados, para nos ajudar a compreender como as sociedades vêm adoecendo. Assista agora à maior investigação documental sobre psicologia e psiquiatria já feita no Brasil.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO-O ATAQUE AO CAPITÓLIO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb6c04cd4077643d54c0faf300f9412e5bef9e7b</link>
