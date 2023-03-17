@@ -32,3 +32,12 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A festa nunca termina? E sua vida, quando começa? Seja sua escolha pular carnaval ou pular o carnaval, te convidamos a assistir ao novo especial inédito da Brasil Paralelo, produzido com o objetivo de estudar e compreender as origens, caminhos e desvios dessa festa e tudo que ela representa — e deixou de representar.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] BOATE KISS - A TRAGÉDIA DE SANTA MARIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:052274e597619edd6356d565552afc374b7d428a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dqg3VibnorhMPDDIIVEkFE2DhV6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Marcelo Canellas conta a história de luta por justiça protagonizada por familiares das vítimas de uma das maiores tragédias do Brasil: o incêndio da Boate Kiss.</info>
+</item>
+
