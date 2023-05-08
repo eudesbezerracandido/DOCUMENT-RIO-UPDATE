@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] OS DONOS DA VERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a69e8b20e05208013d91cee85a3ee9651ff821f6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/m15HJh1UUiZH2WFPteU6oB8aBRM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: O que acontece quando alguém decide por você o que é verdadeiro ou falso? Qual é o preço da liberdade de expressão? E qual é o custo de perdê-la? Na era das Fake News, duvide das certezas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A FANTASTICA FÁBRICA DA SANIDADE-DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BPEML4UWSHUPHYJAVZ55ODILPWZLPA4S</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7CC2p1QajubhB3lXjFHkuww2KkN.jpg</thumbnail>
