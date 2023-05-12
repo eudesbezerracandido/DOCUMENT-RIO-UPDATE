@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] STILL: AINDA SOU MICHAEL J. FOX [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b1c2d0b4e5f81a63fa56ed33a890b46d29f5768</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1kvowT7zERsSdhgweEmbyyJAPzc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um garoto baixinho que cresceu em bases militares canadenses torna-se o queridinho da cultura pop internacional dos anos 1980, até que vê o rumo de sua vida mudar por causa de um diagnóstico chocante. O que acontece quando um otimista incurável enfrenta uma doença incurável?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A FANTASTICA FÁBRICA DA SANIDADE-DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BPEML4UWSHUPHYJAVZ55ODILPWZLPA4S</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7CC2p1QajubhB3lXjFHkuww2KkN.jpg</thumbnail>
