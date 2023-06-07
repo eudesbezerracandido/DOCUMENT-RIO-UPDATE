@@ -1,6 +1,16 @@
 # DOCUMENT-RIO-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] PLANETA PRÉ HISTÓRICO 2/ 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:482DA95F5BDC2633603F2E7DBB87D1FBB9259407$nome=EP.1/3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44FB696F704D0586D08DDF39E664F712A68E318D$nome=EP.4/5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iO7MX4bFkufcCYgGZNpLbnJLDU8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Experimente como nunca antes as maravilhas do nosso mundo nesta série documental épica de Jon Favreau e dos produtores de Planeta Terra. Viaje 66 milhões de anos para quando dinossauros majestosos e criaturas extraordinárias habitavam terras, mares e céus.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] OS DONOS DA VERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a69e8b20e05208013d91cee85a3ee9651ff821f6</link>
