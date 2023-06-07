@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  PLANETA PRÉ HISTÓRICO 1/ 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SLHDQ2JU7OJ2YKRSQQLYSJLLNV7CUVUH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yMdFsHKp4YX2CUkAQcZswxXDuoe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Experimente como nunca antes as maravilhas do nosso mundo nesta série documental épica de Jon Favreau e dos produtores de Planeta Terra. Viaje 66 milhões de anos para quando dinossauros majestosos e criaturas extraordinárias habitavam terras, mares e céus.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OS DONOS DA VERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a69e8b20e05208013d91cee85a3ee9651ff821f6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/m15HJh1UUiZH2WFPteU6oB8aBRM.jpg</thumbnail>
