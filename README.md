@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - ARNOLD SCHWARZENEGGERS 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae8f381ed792eecffe0b9e6e84d7354002c9c692</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Esta série documental em três partes conta a trajetória de Arnold Schwarzenegger do interior da Áustria ao mais alto escalão do sonho americano. Em entrevistas reveladoras, Schwarzenegger e seus amigos, inimigos, colegas de elenco e observadores falam sobre tudo, desde o fisiculturismo até o sucesso em Hollywood, o período em que governou o estado da Califórnia e as alegrias e turbulências da vida familiar em um relato à altura de sua personalidade marcante.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PLANETA PRÉ HISTÓRICO 2/ 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:482DA95F5BDC2633603F2E7DBB87D1FBB9259407$nome=EP.1/3</link>
