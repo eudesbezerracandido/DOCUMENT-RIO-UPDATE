@@ -1,6 +1,15 @@
 # DOCUMENT-RIO-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] DE VOLTA AO TITANIC [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9782ed4ad350255f7859c06e5eabcbc24ad78bcd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tHQFLTI6man9BfELaQVCr6LRDd2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>De Volta ao Titanic” mostra os primeiros mergulhos tripulados ao Titanic em quase 15 anos. As novas imagens revelam a deterioração mais recente e ajuda a perceber qual será o futuro do navio.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - VALE DOS CANGURUS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03430815d482ba2ff92decbf71562a919d5c1d8b</link>
