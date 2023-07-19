@@ -1,6 +1,13 @@
 # DOCUMENT-RIO-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] XUXA - DOCUMENTÁRIO 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PYXB2ZI3SG75W6QCYGOERXWAP4TQVAKH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mlv4E2MTEfoqJ3Ry076YnVVlVdA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O Documentário apresenta a trajetória da apresentadora e cantora Xuxa Meneghel. Com mais de quarenta anos de carreira, atravessando gerações, quebrando recordes nacionais e marcando a infância de diversas famílias não só no Brasil, mas também no mundo, a série documental oferece um novo olhar sobre quem foi e quem é Xuxa. Dividida em cinco episódios, apresenta depoimentos inéditos, entrevistas exclusivas e uma imersão nos momentos mais importantes de sua carreira, sob a direção de Pedro Bial e com roteiro de Camila Appel.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DE VOLTA AO TITANIC [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
