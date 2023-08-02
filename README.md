@@ -1,6 +1,15 @@
 # DOCUMENT-RIO-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] CONTAMINAÇÃO - A VERDADE SOBRE O QUE COMEMOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73CB55B9E15703F2AB362D935724A154FA29B772</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u1GSA2uzJvLRBvBwUdWkeqcFqq0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Este documentário fascinante conta com entrevistas reveladoras para examinar os surtos de doenças de origem alimentar nos EUA.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] XUXA - DOCUMENTÁRIO 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PYXB2ZI3SG75W6QCYGOERXWAP4TQVAKH</link>
