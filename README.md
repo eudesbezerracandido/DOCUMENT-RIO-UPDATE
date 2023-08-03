@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] A DAMA DO SILÊNCIO - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22535837292a7d9036e000068a0504b5af9b4c86</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fd5B1I6riT7oze7FntN51RvTPyn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A Dama do Silêncio: La Mataviejitas é um documentário da Netflix que fala sobre uma série de assassinatos cometidos no México, durante a década de 2000.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CONTAMINAÇÃO - A VERDADE SOBRE O QUE COMEMOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4d1f035ebf8cb6b14c6b7cf5a6bc0eda6a240e6</link>
