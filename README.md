@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SHARK BELOW ZERO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10070acb805393a63a62506bebfd3d9972893a76</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/c1UAwMeuBXVluMNCJ4EYqFfy52E.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tubarões brancos foram vistos em todo o Canadá até a costa da Terra Nova. Após a primeira suspeita de ataque de tubarão branco no Canadá em mais de 150 anos, os especialistas Greg Skomal, Heather Bowlby, Megan Winton e Warren Joyce investigam o que leva a jornada do tubarão branco ao limite mais ao norte de seu alcance.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A DAMA DO SILÊNCIO - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22535837292a7d9036e000068a0504b5af9b4c86</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fd5B1I6riT7oze7FntN51RvTPyn.jpg</thumbnail>
