@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] VULCÕES E TUBARÕES: HAVEI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbb821d0ce5db5260d7fe53e5ad400ec022538a6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/q3N44XL6l1AHRyDgTN1BRTEfRvV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Para descobrir por que os tubarões são atraídos pelos vulcões do Havaí, o Dr. Mike Heithaus e a Dra. Frances Farabaugh mergulham com uma das espécies mais perigosas do</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A DAMA DO SILÊNCIO - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
