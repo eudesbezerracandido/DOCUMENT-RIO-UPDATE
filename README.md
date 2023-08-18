@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] ISABELLA- O CASO NARDONI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VTY5UNGHKNJMNSE2WZFGMFPZ7BC6FCCO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/53pmHd5XialRnoTXlLwwBaezEOs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O caso do assassinato de Isabella Nardoni, o crime que parou o Brasil em 2008, quando a menina de 5 anos de idade foi atirada pela janela do apartamento de seu pai e da madrasta, em São Paulo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] VULCÕES E TUBARÕES: HAVEI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbb821d0ce5db5260d7fe53e5ad400ec022538a6</link>
