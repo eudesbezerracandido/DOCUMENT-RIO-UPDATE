@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] LANÇANDO SEGUNDAS CHANCES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d74a4d3c71b5290618b88751c4ff12db29d551d4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4yGhktbhmLixEfpK3yrRFHXdL7W.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Mike Veeck cresceu à sombra do pai, o dono de vários times e integrante do Hall da Fama do Beisebol, Bill Veeck. O nome Veeck passou ser lendário no beisebol profissional por ter levado a diversão aos estádios, com brindes, noites temáticas e fogos de artifício, entre outras atrações. Mas tudo mudou rapidamente quando Mike acabou com a carreira do pai. Exilado do jogo que tanto amava, o jovem Veeck passou as próximas décadas se dedicando a sair do fundo do poço e determinado a se redimir. Após receber uma notícia perturbadora, o que começou como uma jornada para recuperar seu legado virou uma oportunidade para apreciar mais a família. Dirigido pelo vencedor do Oscar® Morgan Neville (A Um Passo do Estrelato) e Jeff Malmberg (Marwencol), narrado por Jeff Daniels e com Charlie Day interpretando o jovem Veeck, Lançando Segundas Chances é um filme inesperado, emotivo e que faz você rir desta história de volta por cima diferente de todas as que você já viu.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ISABELLA- O CASO NARDONI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
