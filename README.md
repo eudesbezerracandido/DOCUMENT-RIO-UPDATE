@@ -1,6 +1,13 @@
 # DOCUMENT-RIO-UPDATE
 
 
+<item>
+<title>[COLOR silver][B] ENCONTROS EXTRATERRESTRES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41a03e928fb2b33321b81d9464484449e0dfe4ef</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4PBiZ3C4y6vZ1JPQrpXtZ30WVeP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Encontros Extraterrestres investiga aparições de OVNIs nos últimos 50 anos com testemunhas. Na série documental, informantes militares e pessoas que afirmam que tiveram contato com alienígenas formam uma rede de relatos sobre aparições de outro mundo em nosso planeta. Entre os testemundos estão uma  experiência coletiva vivida por alunos de uma escola no Zimbabue e a interferência de uma forma de inteligência aparentemente sobrehumana em uma usina nuclear japonesa. Além das entrevistas com indivíduos que teriam encontrado extraterrestres, pesquisadores e cientistas da área também são consutltados pela produção.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] LANÇANDO SEGUNDAS CHANCES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
