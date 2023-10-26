@@ -1,6 +1,17 @@
 # DOCUMENT-RIO-UPDATE
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] A VIDA NO NOSSO PLANETA 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MQPWFFERACI6NP73XWZYA2F2ZY4C6ATC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5dkKTQyg2vcXgzAkiCJfQzpcntV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em A Vida no Nosso Planeta, o ator Morgan Freeman nos guia em um mergulho na história da humanidade desde os primórdios da vida na Terra. Produzida por Steven Spielberg, a série documental recorre a efeitos especiais, animação e CGI refinados para reproduzir quatro bilhões de anos de história. Desde os primeiros organismos, passando pelos dinossauros até os animais que conhecemos hoje, além dos seres humanos, a produção da equipe de Nosso Planeta faz a retrospectiva mais épica da vida na Terra.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ENCONTROS EXTRATERRESTRES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41a03e928fb2b33321b81d9464484449e0dfe4ef</link>
