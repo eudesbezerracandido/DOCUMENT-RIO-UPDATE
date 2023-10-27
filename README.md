@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] PORTA AMARELA-O CINECLUB DOS ANOS 90 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24UDLIMVY46BGZEC3JDMGIV4ZWJVUBK3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/znlWjvwrcSOcP3P43zvZLkAusys.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Este documentário intimista retrata uma antiga era da paixão pela sétima arte e o surgimento de jovens cinéfilos na Coreia do Sul, entre eles Bong Joon Ho.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A VIDA NO NOSSO PLANETA 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MQPWFFERACI6NP73XWZYA2F2ZY4C6ATC</link>
