@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - A MISSSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7CGEI55XXRADPYQHWE5HY3IYY3NS47QT</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kSLbmZ6R1VaNM1Kr1EJcdvHV94v.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O missionário americano John Chau tenta fazer contato com um grupo indígena na costa da Índia, uma das últimas comunidades na Terra que ainda vivem em isolamento, com consequências imprevisíveis.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - SILVESTRE STALONE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
