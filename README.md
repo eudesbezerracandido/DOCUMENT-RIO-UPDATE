@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] CARA A CARA COM ETA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7G6NBRAGS3H46I4AR4OKBBKWFECTIVNI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pUThEccecvgCERVJEUzZUBdqFO2.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Josu Urrutikoetxea, também conhecido como Josu Ternera, concede uma entrevista detalhada ao jornalista Jordi Évole sobre seu envolvimento no grupo terrorista ETA.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - A MISSSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7CGEI55XXRADPYQHWE5HY3IYY3NS47QT</link>
