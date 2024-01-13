@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO -  SOBRE CRACK ( DROGA ) DE 1980 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:536ad2f2b1c89d000b878baa79bca5ff8056339b</link>
+<thumbnail>https://i0.wp.com/solegendas.net/wp-content/uploads/2021/01/Crack-Cocaina-Corrupcao-e-Conspiracao-683x1024.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma droga barata e poderosa surge durante uma recessão, causando pânico moral alimentado pelo racismo. Explore a complexa história do crack nos anos 1980.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] FBI CASOS REAIS 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:394A94C9BAAC39D66112FC78128141575EE5EEF3</link>
