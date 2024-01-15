@@ -7,6 +7,14 @@
 
 
 <item>
+<title>[COLOR silver][B] STILL: AINDA SOU MICHAEL J. FOX [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b1c2d0b4e5f81a63fa56ed33a890b46d29f5768</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4iMy2qomj6oQUDNLCIKKIZFhy4x.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>STILL: Ainda Sou Michael J. Fox Torrent – Um garoto baixinho que cresceu em bases militares canadenses torna-se o queridinho da cultura pop internacional dos anos 1980, até que vê o rumo de sua vida mudar por causa de um diagnóstico chocante. O que acontece quando um otimista incurável enfrenta uma doença incurável?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO -  SOBRE CRACK ( DROGA ) DE 1980 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:536ad2f2b1c89d000b878baa79bca5ff8056339b</link>
 <thumbnail>https://i0.wp.com/solegendas.net/wp-content/uploads/2021/01/Crack-Cocaina-Corrupcao-e-Conspiracao-683x1024.jpg</thumbnail>
