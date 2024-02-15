@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO -  THE SPACE RACE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3b5e27f4d1b0834ff3153dd7a03caf4f25b4fda</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/k92rpuDXYxdy4c4LHMNNhU12lov.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>The Space Race é um longa-metragem que irá desvendar as histórias pouco conhecidas dos primeiros pilotos, engenheiros e cientistas negros a se tornarem astronautas. Frank Marshall e Tony Rosenthal, da The Kennedy/Marshall Company, serão os produtores executivos, juntamente com Carolyn Bernstein, da National Geographic Documentary Films, e Leland Melvin. O projeto será produzido por Alexandra Bowen e Aly Parker da Kennedy/Marshall, Mark Monroe da Diamond Docs e o produtor independente Keero Birla. Monroe também atuará como roteirista do filme.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO -  VOÇÊ RADICAL COM RANVEER SINGH E BEAR GRYLLS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3VRLNX4GRXNXCZFD3BPNSLRBVHZVSUVQ</link>
