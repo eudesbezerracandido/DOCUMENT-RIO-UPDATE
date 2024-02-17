@@ -6,6 +6,14 @@
 
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - EISNTEIN E A BOMBA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DYRHEDJRPYBTLVBVFF2ZQU5B7CZ4N24Y</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/pGEB1qR73d8XNhnHCXqnkuMokIk.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> O que aconteceu depois que Einstein fugiu da Alemanha nazista? Com imagens de arquivo e as palavras dele, este documentário mergulha na mente do gênio torturado.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO -  THE SPACE RACE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3b5e27f4d1b0834ff3153dd7a03caf4f25b4fda</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/k92rpuDXYxdy4c4LHMNNhU12lov.jpg</thumbnail>
