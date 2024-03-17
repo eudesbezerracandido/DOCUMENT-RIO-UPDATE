@@ -7,7 +7,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] HISTÓRIA DO COMUNISMO 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3BBZRTFGBMYCROUS6NLRO2SYVDSFYVFD</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/eWfqKtpFOwfKkjBz8Psqsv9KYkM.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Viajamos por 10 países, entrevistamos as maiores autoridades acadêmicas e científicas em comunismo, conversamos com testemunhas que viveram a realidade por trás da ideologia, e trouxemos o novo épico da Brasil Paralelo: o conteúdo mais completo já feito sobre a história do comunismo que pretende ser um marco definitivo na discussão sobre o tema, no Brasil e no mundo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DÉJAVÚ - O PRIMEIRO ANO DO GOVERNO LULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
