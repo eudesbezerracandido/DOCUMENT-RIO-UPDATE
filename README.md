@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - CID MOREIRA-BOA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RNSCOJY4DDAUV2BCW4WVVEE2SDSDAPYJ</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/35jq47Wui2Y6mQsGeuQ1nuvVD99.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Aos 91 anos, Cid Moreira abre as portas de casa e de seu inconsciente, revelando facetas surpreendentes do homem que entrou nos lares de milhões de brasileiros todas as noites, por quase 30 anos. A voz mais famosa do Brasil narra a própria história, desconstruindo sua imagem mítica e conduzindo o espectador por um labirinto de memórias. Lembranças e imagens de arquivo traçam um panorama de sua vida, que seconfunde com a história da televisão brasileira.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - EISNTEIN E A BOMBA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DYRHEDJRPYBTLVBVFF2ZQU5B7CZ4N24Y</link>
