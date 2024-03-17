@@ -6,6 +6,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] DÉJAVÚ - O PRIMEIRO ANO DO GOVERNO LULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q6AP462U6GD3SLD5IWY6H7MXFDEMVKAI</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/1ESbIOki2zEDCYeYmdySdRTZvau.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Déjà Vu: sensação de estar revivendo o passado. É um sentimento confuso, quando algo novo lhe parece familiar… Apesar de se apresentar como o Governo do Amor, será que o atual governo cumpriu suas promessas, ou reforçou o discurso do nós contra eles? Quem afirmava defender a democracia rompeu com ditadores ou os recebeu? É hora de relembrar o que aconteceu em Brasília: o palco desse grande Déjà Vu.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - CID MOREIRA-BOA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RNSCOJY4DDAUV2BCW4WVVEE2SDSDAPYJ</link>
