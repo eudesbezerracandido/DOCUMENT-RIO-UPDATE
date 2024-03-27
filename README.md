@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - MC DALESTE MATARAM POBRE LOUCO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IXLSUWLQY35JZRFYZ3EG6OVNUXPTVIBN</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ry8rWL3an19bf3bQcQpH7Hqqvhb.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> A extensa investigação da vida do funkeiro MC Daleste, assassinado em cima do palco enquanto fazia show, retratada nas quase mil páginas do processo. Com entrevistas de familiares, amigos, policiais e celebridades, a obra também resgata e explica a sua relevância na música e no universo do funk.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] HISTÓRIA DO COMUNISMO 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
