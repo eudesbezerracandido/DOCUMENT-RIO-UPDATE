@@ -5,6 +5,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] DOCUMETÁRIO - BEZOS THE BEGINNING ( LEGENDA FIXA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79E1F9666C74F8BDBD9B3198FE4DC7C39EFA6F66</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/r5ojWbIulYkXPLlqcWDNsBKpslG.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Bezos narra a história da vida real de Jeff Bezos – um empresário humilde, mas desajeitado, em sua missão de criar a Amazon, a maior empresa de comércio eletrônico do mundo, e se tornar o homem mais rico do mundo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - MC DALESTE MATARAM POBRE LOUCO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IXLSUWLQY35JZRFYZ3EG6OVNUXPTVIBN</link>
