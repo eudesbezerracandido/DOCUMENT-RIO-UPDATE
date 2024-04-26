@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - OS SEGREDOS DA ALIMENTAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XMVCBL2VKL4SBS2SIUQJHQJKYVQMFGF2</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/rUCgAF6P0lfSU9Q2VqVErXVowOf.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Conheça melhor o sistema digestivo neste documentário leve e informativo que desmistifica a função da saúde intestinal no bem-estar do ser humano.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DOCUMETÁRIO - BEZOS THE BEGINNING ( LEGENDA FIXA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
