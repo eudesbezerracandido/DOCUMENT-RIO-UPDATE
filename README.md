@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - DEPOIS DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43193dba66f6304fb84af96a2b9adbbdf038a42f</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/kKQ9kUOWAPTe7VpE6Z4s3V18r9J.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O que acontece depois que morremos? Através da reencenação de experiências reais de vida após a morte, escritores, médicos, cientistas e sobreviventes contam o que sabem sobre a maior questão da humanidade. Do estúdio de Som da Liberdade.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - O GUARDIÃO DAS BORBOLETAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3556PBIFWMCB64UPNOQW663IMMKD3FI</link>
